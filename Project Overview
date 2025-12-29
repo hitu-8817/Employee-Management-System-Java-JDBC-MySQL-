@@ -1,0 +1,8 @@
+This application allows users to manage employee records using a MySQL database.
+All operations are performed via a menu driven console interface.
+What you will learn from this project:
+Java package structure
+JDBC connectivity
+SQL CRUD operations
+DAO design pattern
+Clean & scalable code organization
